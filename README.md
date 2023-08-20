@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto html" src="./image/img-readme.jpg" width="100%">
+  <img alt="Projeto html" src="./image/img-readme.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
